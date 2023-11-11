@@ -97,3 +97,5 @@ if __name__ == '__main__':
 
 Este bloque verifica si el script app.py se está ejecutando directamente (no importado como módulo). Si es así, se configura la aplicación Flask para utilizar la configuración de desarrollo (config['development']) y se inicia el servidor de desarrollo con app.run().
 
+
+## Implementaciones nuevas
